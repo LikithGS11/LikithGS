@@ -6,10 +6,12 @@
 
 ---
 
-🎓 I'm Likith, a graduate in **Information Science and Engineering** from MVJ College of Engineering, Bangalore. 
-💡 I’m passionate about building AI-powered systems, intelligent web applications, and creating seamless end-to-end ML solutions.
-🚀 Seeking opportunities to grow as an **AI Generalist** and **Data Analyst**
+- 🎓 I'm **Likith**, a graduate in **Information Science and Engineering** from MVJ College of Engineering, Bangalore .  
+- 🤖 Passionate about building **AI-powered systems**, **intelligent web applications**, and **end-to-end ML solutions**.
+- 📈 Constantly exploring and upskilling in the field of **AI**, **Data Analytics**, and **Cloud-Integrated AI Systems**.
+- 🚀 Open to opportunities as an **AI Generalist**, **Data Analyst**, or **ML Developer** where I can contribute and grow.
 
+> 💡 Let's connect and innovate with data and intelligence!
 ---
 
 ## 🚀 Projects Showcase
