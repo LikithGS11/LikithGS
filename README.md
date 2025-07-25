@@ -6,9 +6,9 @@
 
 ---
 
-🎓 I'm a graduate in **Information Science and Engineering** from MVJ College of Engineering, Bangalore.  
-💡 I'm deeply passionate about **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**.  
-🚀 Currently building real-time intelligent systems that blend computer vision, NLP, and voice-based assistance.
+🎓 I'm Likith, a graduate in **Information Science and Engineering** from MVJ College of Engineering, Bangalore. 
+💡 I’m passionate about building AI-powered systems, intelligent web applications, and creating seamless end-to-end ML solutions.
+🚀 Seeking opportunities to grow as an **AI Generalist** and **Data Analyst**
 
 ---
 
@@ -80,21 +80,17 @@ A web app that:
 
 ---
 
-## 📈 GitHub Stats
+### 📫 Connect with Me  
+<a href="https://www.linkedin.com/in/likithgs" target="_blank">LinkedIn</a> • 
+<a href="mailto:likithmanju11@gmail.com">Gmail</a> • 
+<a href="https://github.com/LikithGS11">GitHub</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likithg7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=likithg7&theme=tokyonight" alt="GitHub Streak" />
+---
+
+<p align="center" style="font-family:Georgia; font-size:18px;">
+  🙏 <strong><i>Thanks for visiting my profile!</i></strong> ✨  
 </p>
 
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likithgs)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:likithgs7@gmail.com)
-
----
-
-⭐️ *Thanks for visiting my profile! Feel free to connect or check out my work.*  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
