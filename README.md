@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Likith G S 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Python+Developer+%7C+Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+AI-powered+Solutions;Data-Driven+Decision+Making;Crafting+Intelligent+Apps" alt="Typing SVG" />
 </p>
 
 ---
