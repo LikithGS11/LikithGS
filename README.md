@@ -61,15 +61,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likithg7&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likithg7&layout=compact&theme=default" height="150"/>
-</p>
-
----
-
 ## 🎯 Career Goals
 
 - 📌 Secure a full-time role in AI/ML or Data Engineering  
@@ -87,12 +78,7 @@
   </a>
   <a href="mailto:likithgs.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://emot-ai.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20App-EmotAI-black?style=flat-square" />
-  </a>
-</p>
-
+    
 ---
 
 <p align="center">
