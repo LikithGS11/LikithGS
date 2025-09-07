@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Likith G S 👋</h1>
+<h1 align="center">Hi there, I'm Likith 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&height=45&lines=Designing+AI-Driven+Experiences;Empowering+Decisions+with+Data;Building+Intelligent+Web+Apps;Exploring+Next-Gen+AI"/>
