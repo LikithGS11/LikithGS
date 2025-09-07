@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Likith G S 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&height=45&lines=Designing+AI-Driven+Experiences;Empowering+Decisions+with+Data;Building+Smart+and+Adaptive+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&height=45&lines=Designing+AI-Driven+Experiences;Empowering+Decisions+with+Data;Building+Intelligent+Web+Apps;Exploring+Next-Gen+AI"/>
 </p>
 
 ---
@@ -12,43 +12,6 @@
 - 🚀 Open to opportunities as an **AI Generalist**, **Data Analyst**, or **ML Developer** where I can contribute and grow.
 
 > 💡 Let's connect and innovate with data and intelligence!
----
-## 🚀 Projects Showcase
-
-### 💡 VisionAI – Real-Time Assistant for Visually Impaired  
-An AI-powered Streamlit app that provides:
-- **Real-time Object Detection** using YOLOv8
-- **Scene Understanding** with Google Gemini
-- **OCR** with Tesseract for reading text from surroundings
-- **Text-to-Speech** for voice assistance  
-> Tools Used: Python, Streamlit, OpenCV, LangChain, PyTesseract, YOLOv8, Google Gemini
-
----
-
-### 🫀 Heart Disease Prediction  
-Developed a predictive web app using Flask that:
-- Collects user health parameters
-- Uses a trained ML model to predict the likelihood of heart disease
-- Has user login, secure authentication, and dynamic result display  
-> Tools Used: Python, Flask, Sklearn, HTML, CSS, JS
-
----
-
-### 📊 Real-Time Social Media Analytics Pipeline  
-Built a scalable analytics pipeline to:
-- Ingest tweets in real time using Tweepy
-- Store them in MongoDB
-- Perform sentiment analysis and visualization  
-> Tools Used: Python, MongoDB, Pandas, Matplotlib, Tweepy
-
----
-
-### 🧠 AI Emotion Mentor  
-A web app that:
-- Detects user emotion from text input using NLP
-- Provides motivational and mood-based suggestions
-- Includes a chatbot with a clean UI  
-> Tools Used: Python, Firebase, OpenAI API, HTML, CSS, JS
 
 ---
 
@@ -69,7 +32,7 @@ A web app that:
 
 ---
 
-### 🧠 AI / ML / Data  
+### 🤖 AI / ML / Data  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
@@ -86,6 +49,13 @@ A web app that:
 ![Google TTS](https://img.shields.io/badge/-Google%20TTS-34A853?logo=google&logoColor=white)
 ![SpeechRecognition](https://img.shields.io/badge/-SpeechRecognition-FF69B4?logo=voicemod&logoColor=white)
 ![PyTesseract](https://img.shields.io/badge/-PyTesseract-8E44AD?logo=python&logoColor=white)
+
+---
+
+### 🖥️ DevOps & Design
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0AFF?logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
